@@ -1,0 +1,2 @@
+#app{position:relative;height:100%}.options{z-index:100}body,html{margin:0;overflow:hidden;height:100%}.fade-enter-active,.fade-leave-active{transition:opacity .5s ease}.fade-enter,.fade-leave-active{opacity:0}.slide-left-enter,.slide-right-leave-active{opacity:0;transform:translate(30px)}.slide-left-leave-active,.slide-right-enter{opacity:0;transform:translate(-30px)}#kk{height:100%;position:relative}.options{position:absolute}#wrap{display:inline-block;height:100%}
+/*# sourceMappingURL=app.82e0d69b42df007be2bbe9b09569a6f2.css.map */
